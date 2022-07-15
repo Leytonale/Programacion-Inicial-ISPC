@@ -60,7 +60,7 @@
     años que sean divisibles por 4 y también por 100 no son bisiestos, a menos que
     también sean divisibles por 400. Por ejemplo, 1900 no fue bisiesto, pero sí el 2000.
     
-**ercicio 4:**
+**Ejercicio 4:**
 
     Se pide un programa que le solicite al usuario que ingrese una palabra. Con esa palabra
     calcular los siguientes puntos:
